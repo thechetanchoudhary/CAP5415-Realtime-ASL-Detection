@@ -24,7 +24,7 @@ Our project leverages the following technologies:
 
 - Chetan Choudhary
 - Venkata Rohan Bharadwaj Bandarupalli
-- Zackary
+- Zackary Keiner
 
 ## Project Phases
 
